@@ -5,13 +5,6 @@ Simple UI and framework for selecting and running scripts written in various lan
 
 This uses a main 'AbstractScript' Java class and scripts which are sub-classes, along with a script-picker UI written in JRuby. These scripts are written in Java or other languages, such as JRuby and Jython.
 
-Dependancies:
----------------
-* JRuby
-* log4j
-* swt
-* Graphviz
-
 Screenshots
 ---------------
 
