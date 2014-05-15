@@ -34,9 +34,10 @@ build/
 .rvmrc
 
 *.old
+old/
 application/old/
 application/log/
 application/cachedir/
 application/temp/jdbcmssql/
 application/jdbcmssql/
-
+_installers_/
