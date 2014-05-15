@@ -273,7 +273,7 @@ end # module Scripting
 
 Here is some sample code written in Jython:
 
-```jython
+```python
 import scripting.core.AbstractScript
 from java.lang import System as javasystem
 
