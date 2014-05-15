@@ -1,0 +1,2 @@
+For: MSSQL access
+copied from: \\10.8.59.138\d$\MaximoSuite\SMP\maximo\applications\maximo\lib\Opta.jar

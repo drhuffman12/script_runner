@@ -1,0 +1,1765 @@
+ENV['AppRoot'] == 
+ENV['AppRoot'] == /home/drhuffman/vm_shared/_dev_/ScriptRunner
+log4j...
+...log4j
+
+
+jvm_bits.inspect == '"64"'
+path_root == /java/lib
+sub_path == 
+file_filter == /**/*.jar
+path_root == /java/lib
+sub_path == 
+file_filter == /**/*.class
+path_root == /java/bin
+sub_path == /scripting
+file_filter == /**/*.class
+path_root == /jruby
+sub_path == /scripting
+file_filter == /**/*.rb
+path_root == /jython
+sub_path == /scripting
+file_filter == /**/*.py
+path_root == /java/lib
+sub_path == 
+file_filter == /**/*.jar
+
+    path_root      : /java/lib
+    sub_path       : 
+    file_filter    : /**/*.jar
+    .. @script_root: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib/Opta.jar
+      req_file_name_without_ext: Opta
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib, @script_root.length == 53
+      sub_script_root_part: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib, sub_script_root_part.length == 53
+      sub_script_root_part: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib, sub_script_root_part.length == 53
+      sub_script_root_part_array: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib
+      file_part: Opta.jar
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib/Opta.jar
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib/Opta.jar''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib/Opta.jar'
+          aka                       : 'Opta'
+          req_pkg_or_mod_name       : ''
+          req_class_name            : ''
+          req_pkg_or_mod_class_name : ''
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib/jython.jar
+      req_file_name_without_ext: jython
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib, @script_root.length == 53
+      sub_script_root_part: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib, sub_script_root_part.length == 53
+      sub_script_root_part: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib, sub_script_root_part.length == 53
+      sub_script_root_part_array: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib
+      file_part: jython.jar
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib/jython.jar
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib/jython.jar''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib/jython.jar'
+          aka                       : 'jython'
+          req_pkg_or_mod_name       : ''
+          req_class_name            : ''
+          req_pkg_or_mod_class_name : ''
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib/log4j.jar
+      req_file_name_without_ext: log4j
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib, @script_root.length == 53
+      sub_script_root_part: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib, sub_script_root_part.length == 53
+      sub_script_root_part: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib, sub_script_root_part.length == 53
+      sub_script_root_part_array: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib
+      file_part: log4j.jar
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib/log4j.jar
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib/log4j.jar''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib/log4j.jar'
+          aka                       : 'log4j'
+          req_pkg_or_mod_name       : ''
+          req_class_name            : ''
+          req_pkg_or_mod_class_name : ''
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib/jexamxml.jar
+      req_file_name_without_ext: jexamxml
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib, @script_root.length == 53
+      sub_script_root_part: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib, sub_script_root_part.length == 53
+      sub_script_root_part: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib, sub_script_root_part.length == 53
+      sub_script_root_part_array: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib
+      file_part: jexamxml.jar
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib/jexamxml.jar
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib/jexamxml.jar''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib/jexamxml.jar'
+          aka                       : 'jexamxml'
+          req_pkg_or_mod_name       : ''
+          req_class_name            : ''
+          req_pkg_or_mod_class_name : ''
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib/svgSalamander.jar
+      req_file_name_without_ext: svgSalamander
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib, @script_root.length == 53
+      sub_script_root_part: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib, sub_script_root_part.length == 53
+      sub_script_root_part: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib, sub_script_root_part.length == 53
+      sub_script_root_part_array: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib
+      file_part: svgSalamander.jar
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib/svgSalamander.jar
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib/svgSalamander.jar''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib/svgSalamander.jar'
+          aka                       : 'svgSalamander'
+          req_pkg_or_mod_name       : ''
+          req_class_name            : ''
+          req_pkg_or_mod_class_name : ''
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib/swt.jar
+      req_file_name_without_ext: swt
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib, @script_root.length == 53
+      sub_script_root_part: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib, sub_script_root_part.length == 53
+      sub_script_root_part: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib, sub_script_root_part.length == 53
+      sub_script_root_part_array: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib
+      file_part: swt.jar
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib/swt.jar
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib/swt.jar''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib/swt.jar'
+          aka                       : 'swt'
+          req_pkg_or_mod_name       : ''
+          req_class_name            : ''
+          req_pkg_or_mod_class_name : ''
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib/jtds.jar
+      req_file_name_without_ext: jtds
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib, @script_root.length == 53
+      sub_script_root_part: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib, sub_script_root_part.length == 53
+      sub_script_root_part: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib, sub_script_root_part.length == 53
+      sub_script_root_part_array: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib
+      file_part: jtds.jar
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib/jtds.jar
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib/jtds.jar''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib/jtds.jar'
+          aka                       : 'jtds'
+          req_pkg_or_mod_name       : ''
+          req_class_name            : ''
+          req_pkg_or_mod_class_name : ''
+
+
+path_root == /java/lib
+sub_path == 
+file_filter == /**/*.class
+
+    path_root      : /java/lib
+    sub_path       : 
+    file_filter    : /**/*.class
+    .. @script_root: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/lib
+
+path_root == /java/bin
+sub_path == /scripting
+file_filter == /**/*.class
+
+    path_root      : /java/bin
+    sub_path       : /scripting
+    file_filter    : /**/*.class
+    .. @script_root: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/bin
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/bin/scripting/core/StartButtonListener.class
+      req_file_name_without_ext: StartButtonListener
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/bin, @script_root.length == 53
+      sub_script_root_part: scripting/core, sub_script_root_part.length == 14
+      sub_script_root_part: scripting/core, sub_script_root_part.length == 14
+      sub_script_root_part_array: scripting/core
+      file_part: StartButtonListener.class
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/bin/scripting/core/StartButtonListener.class
+
+          ... req_or_include_cmd    : 'java_import Java::scripting.core.StartButtonListener'
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/java/bin/scripting/core/StartButtonListener.class'
+          aka                       : 'StartButtonListener'
+          req_pkg_or_mod_name       : 'scripting.core.'
+          req_class_name            : 'StartButtonListener'
+          req_pkg_or_mod_class_name : 'Java::scripting.core.StartButtonListener'
+Exception => e == #<NameError: uninitialized constant AbstractScript>
+ ... backtrace == 
+ >> org/jruby/RubyModule.java:2690:in `const_missing'
+ >> start.rb:177:in `include_for_path_and_file_filter'
+ >> org/jruby/RubyArray.java:1613:in `each'
+ >> start.rb:70:in `include_for_path_and_file_filter'
+ >> start.rb:327:in `include_dependant_files_and_get_scripts'
+ >> org/jruby/RubyArray.java:1613:in `each'
+ >> start.rb:318:in `include_dependant_files_and_get_scripts'
+ >> start.rb:339:in `(root)'
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/bin/scripting/core/ScrollToEndListener.class
+      req_file_name_without_ext: ScrollToEndListener
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/bin, @script_root.length == 53
+      sub_script_root_part: scripting/core, sub_script_root_part.length == 14
+      sub_script_root_part: scripting/core, sub_script_root_part.length == 14
+      sub_script_root_part_array: scripting/core
+      file_part: ScrollToEndListener.class
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/bin/scripting/core/ScrollToEndListener.class
+
+          ... req_or_include_cmd    : 'java_import Java::scripting.core.ScrollToEndListener'
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/java/bin/scripting/core/ScrollToEndListener.class'
+          aka                       : 'ScrollToEndListener'
+          req_pkg_or_mod_name       : 'scripting.core.'
+          req_class_name            : 'ScrollToEndListener'
+          req_pkg_or_mod_class_name : 'Java::scripting.core.ScrollToEndListener'
+Exception => e == #<NameError: uninitialized constant AbstractScript>
+ ... backtrace == 
+ >> org/jruby/RubyModule.java:2690:in `const_missing'
+ >> start.rb:177:in `include_for_path_and_file_filter'
+ >> org/jruby/RubyArray.java:1613:in `each'
+ >> start.rb:70:in `include_for_path_and_file_filter'
+ >> start.rb:327:in `include_dependant_files_and_get_scripts'
+ >> org/jruby/RubyArray.java:1613:in `each'
+ >> start.rb:318:in `include_dependant_files_and_get_scripts'
+ >> start.rb:339:in `(root)'
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/bin/scripting/core/JythonFactory.class
+      req_file_name_without_ext: JythonFactory
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/bin, @script_root.length == 53
+      sub_script_root_part: scripting/core, sub_script_root_part.length == 14
+      sub_script_root_part: scripting/core, sub_script_root_part.length == 14
+      sub_script_root_part_array: scripting/core
+      file_part: JythonFactory.class
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/bin/scripting/core/JythonFactory.class
+
+          ... req_or_include_cmd    : 'java_import Java::scripting.core.JythonFactory'
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/java/bin/scripting/core/JythonFactory.class'
+          aka                       : 'JythonFactory'
+          req_pkg_or_mod_name       : 'scripting.core.'
+          req_class_name            : 'JythonFactory'
+          req_pkg_or_mod_class_name : 'Java::scripting.core.JythonFactory'
+Exception => e == #<NameError: uninitialized constant AbstractScript>
+ ... backtrace == 
+ >> org/jruby/RubyModule.java:2690:in `const_missing'
+ >> start.rb:177:in `include_for_path_and_file_filter'
+ >> org/jruby/RubyArray.java:1613:in `each'
+ >> start.rb:70:in `include_for_path_and_file_filter'
+ >> start.rb:327:in `include_dependant_files_and_get_scripts'
+ >> org/jruby/RubyArray.java:1613:in `each'
+ >> start.rb:318:in `include_dependant_files_and_get_scripts'
+ >> start.rb:339:in `(root)'
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/bin/scripting/core/AbstractScript.class
+      req_file_name_without_ext: AbstractScript
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/bin, @script_root.length == 53
+      sub_script_root_part: scripting/core, sub_script_root_part.length == 14
+      sub_script_root_part: scripting/core, sub_script_root_part.length == 14
+      sub_script_root_part_array: scripting/core
+      file_part: AbstractScript.class
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/bin/scripting/core/AbstractScript.class
+
+          ... req_or_include_cmd    : 'java_import Java::scripting.core.AbstractScript'
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/java/bin/scripting/core/AbstractScript.class'
+          aka                       : 'AbstractScript'
+          req_pkg_or_mod_name       : 'scripting.core.'
+          req_class_name            : 'AbstractScript'
+          req_pkg_or_mod_class_name : 'Java::scripting.core.AbstractScript'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/bin/scripting/scripts/samples/EmptyScript.class
+      req_file_name_without_ext: EmptyScript
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/bin, @script_root.length == 53
+      sub_script_root_part: scripting/scripts/samples, sub_script_root_part.length == 25
+      sub_script_root_part: scripting/scripts/samples, sub_script_root_part.length == 25
+      sub_script_root_part_array: scripting/scripts/samples
+      file_part: EmptyScript.class
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/bin/scripting/scripts/samples/EmptyScript.class
+
+          ... req_or_include_cmd    : 'java_import Java::scripting.scripts.samples.EmptyScript'
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/java/bin/scripting/scripts/samples/EmptyScript.class'
+          aka                       : 'EmptyScript'
+          req_pkg_or_mod_name       : 'scripting.scripts.samples.'
+          req_class_name            : 'EmptyScript'
+          req_pkg_or_mod_class_name : 'Java::scripting.scripts.samples.EmptyScript'
+
+          ... and it is a subclass of 'AbstractScript'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/bin/scripting/scripts/samples/SampleScriptWithOptions.class
+      req_file_name_without_ext: SampleScriptWithOptions
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/bin, @script_root.length == 53
+      sub_script_root_part: scripting/scripts/samples, sub_script_root_part.length == 25
+      sub_script_root_part: scripting/scripts/samples, sub_script_root_part.length == 25
+      sub_script_root_part_array: scripting/scripts/samples
+      file_part: SampleScriptWithOptions.class
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/bin/scripting/scripts/samples/SampleScriptWithOptions.class
+
+          ... req_or_include_cmd    : 'java_import Java::scripting.scripts.samples.SampleScriptWithOptions'
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/java/bin/scripting/scripts/samples/SampleScriptWithOptions.class'
+          aka                       : 'SampleScriptWithOptions'
+          req_pkg_or_mod_name       : 'scripting.scripts.samples.'
+          req_class_name            : 'SampleScriptWithOptions'
+          req_pkg_or_mod_class_name : 'Java::scripting.scripts.samples.SampleScriptWithOptions'
+
+          ... and it is a subclass of 'AbstractScript'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/bin/scripting/scripts/samples/SampleScript.class
+      req_file_name_without_ext: SampleScript
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/bin, @script_root.length == 53
+      sub_script_root_part: scripting/scripts/samples, sub_script_root_part.length == 25
+      sub_script_root_part: scripting/scripts/samples, sub_script_root_part.length == 25
+      sub_script_root_part_array: scripting/scripts/samples
+      file_part: SampleScript.class
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/java/bin/scripting/scripts/samples/SampleScript.class
+
+          ... req_or_include_cmd    : 'java_import Java::scripting.scripts.samples.SampleScript'
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/java/bin/scripting/scripts/samples/SampleScript.class'
+          aka                       : 'SampleScript'
+          req_pkg_or_mod_name       : 'scripting.scripts.samples.'
+          req_class_name            : 'SampleScript'
+          req_pkg_or_mod_class_name : 'Java::scripting.scripts.samples.SampleScript'
+
+          ... and it is a subclass of 'AbstractScript'
+
+
+path_root == /jruby
+sub_path == /scripting
+file_filter == /**/*.rb
+
+    path_root      : /jruby
+    sub_path       : /scripting
+    file_filter    : /**/*.rb
+    .. @script_root: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/your_db_server.rb
+      req_file_name_without_ext: your_db_server
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/db, sub_script_root_part.length == 12
+      sub_script_root_part: scripting/db, sub_script_root_part.length == 12
+      sub_script_root_part_array: scripting/db
+      file_part: your_db_server.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/your_db_server.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/your_db_server.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/your_db_server.rb'
+          aka                       : 'your_db_server'
+          req_pkg_or_mod_name       : 'Scripting::Db::'
+          req_class_name            : 'YourDbServer'
+          req_pkg_or_mod_class_name : 'Scripting::Db::YourDbServer'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/a_assettrans.rb
+      req_file_name_without_ext: a_assettrans
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part_array: scripting/db/maximo
+      file_part: a_assettrans.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/a_assettrans.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/a_assettrans.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/a_assettrans.rb'
+          aka                       : 'a_assettrans'
+          req_pkg_or_mod_name       : 'Scripting::Db::Maximo::'
+          req_class_name            : 'AAssettrans'
+          req_pkg_or_mod_class_name : 'Scripting::Db::Maximo::AAssettrans'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxrelationship.rb
+      req_file_name_without_ext: maxrelationship
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part_array: scripting/db/maximo
+      file_part: maxrelationship.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxrelationship.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxrelationship.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxrelationship.rb'
+          aka                       : 'maxrelationship'
+          req_pkg_or_mod_name       : 'Scripting::Db::Maximo::'
+          req_class_name            : 'Maxrelationship'
+          req_pkg_or_mod_class_name : 'Scripting::Db::Maximo::Maxrelationship'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxattribute.rb
+      req_file_name_without_ext: maxattribute
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part_array: scripting/db/maximo
+      file_part: maxattribute.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxattribute.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxattribute.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxattribute.rb'
+          aka                       : 'maxattribute'
+          req_pkg_or_mod_name       : 'Scripting::Db::Maximo::'
+          req_class_name            : 'Maxattribute'
+          req_pkg_or_mod_class_name : 'Scripting::Db::Maximo::Maxattribute'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/postatus.rb
+      req_file_name_without_ext: postatus
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part_array: scripting/db/maximo
+      file_part: postatus.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/postatus.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/postatus.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/postatus.rb'
+          aka                       : 'postatus'
+          req_pkg_or_mod_name       : 'Scripting::Db::Maximo::'
+          req_class_name            : 'Postatus'
+          req_pkg_or_mod_class_name : 'Scripting::Db::Maximo::Postatus'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxintobject.rb
+      req_file_name_without_ext: maxintobject
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part_array: scripting/db/maximo
+      file_part: maxintobject.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxintobject.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxintobject.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxintobject.rb'
+          aka                       : 'maxintobject'
+          req_pkg_or_mod_name       : 'Scripting::Db::Maximo::'
+          req_class_name            : 'Maxintobject'
+          req_pkg_or_mod_class_name : 'Scripting::Db::Maximo::Maxintobject'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/poline.rb
+      req_file_name_without_ext: poline
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part_array: scripting/db/maximo
+      file_part: poline.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/poline.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/poline.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/poline.rb'
+          aka                       : 'poline'
+          req_pkg_or_mod_name       : 'Scripting::Db::Maximo::'
+          req_class_name            : 'Poline'
+          req_pkg_or_mod_class_name : 'Scripting::Db::Maximo::Poline'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxservice.rb
+      req_file_name_without_ext: maxservice
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part_array: scripting/db/maximo
+      file_part: maxservice.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxservice.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxservice.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxservice.rb'
+          aka                       : 'maxservice'
+          req_pkg_or_mod_name       : 'Scripting::Db::Maximo::'
+          req_class_name            : 'Maxservice'
+          req_pkg_or_mod_class_name : 'Scripting::Db::Maximo::Maxservice'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/a_po.rb
+      req_file_name_without_ext: a_po
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part_array: scripting/db/maximo
+      file_part: a_po.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/a_po.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/a_po.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/a_po.rb'
+          aka                       : 'a_po'
+          req_pkg_or_mod_name       : 'Scripting::Db::Maximo::'
+          req_class_name            : 'APo'
+          req_pkg_or_mod_class_name : 'Scripting::Db::Maximo::APo'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/inventory.rb
+      req_file_name_without_ext: inventory
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part_array: scripting/db/maximo
+      file_part: inventory.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/inventory.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/inventory.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/inventory.rb'
+          aka                       : 'inventory'
+          req_pkg_or_mod_name       : 'Scripting::Db::Maximo::'
+          req_class_name            : 'Inventory'
+          req_pkg_or_mod_class_name : 'Scripting::Db::Maximo::Inventory'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/mxtbl.rb
+      req_file_name_without_ext: mxtbl
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part_array: scripting/db/maximo
+      file_part: mxtbl.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/mxtbl.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/mxtbl.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/mxtbl.rb'
+          aka                       : 'mxtbl'
+          req_pkg_or_mod_name       : 'Scripting::Db::Maximo::'
+          req_class_name            : 'Mxtbl'
+          req_pkg_or_mod_class_name : 'Scripting::Db::Maximo::Mxtbl'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxtable.rb
+      req_file_name_without_ext: maxtable
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part_array: scripting/db/maximo
+      file_part: maxtable.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxtable.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxtable.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxtable.rb'
+          aka                       : 'maxtable'
+          req_pkg_or_mod_name       : 'Scripting::Db::Maximo::'
+          req_class_name            : 'Maxtable'
+          req_pkg_or_mod_class_name : 'Scripting::Db::Maximo::Maxtable'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/assettrans.rb
+      req_file_name_without_ext: assettrans
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part_array: scripting/db/maximo
+      file_part: assettrans.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/assettrans.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/assettrans.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/assettrans.rb'
+          aka                       : 'assettrans'
+          req_pkg_or_mod_name       : 'Scripting::Db::Maximo::'
+          req_class_name            : 'Assettrans'
+          req_pkg_or_mod_class_name : 'Scripting::Db::Maximo::Assettrans'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxsession.rb
+      req_file_name_without_ext: maxsession
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part_array: scripting/db/maximo
+      file_part: maxsession.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxsession.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxsession.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxsession.rb'
+          aka                       : 'maxsession'
+          req_pkg_or_mod_name       : 'Scripting::Db::Maximo::'
+          req_class_name            : 'Maxsession'
+          req_pkg_or_mod_class_name : 'Scripting::Db::Maximo::Maxsession'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/a_poline.rb
+      req_file_name_without_ext: a_poline
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part_array: scripting/db/maximo
+      file_part: a_poline.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/a_poline.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/a_poline.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/a_poline.rb'
+          aka                       : 'a_poline'
+          req_pkg_or_mod_name       : 'Scripting::Db::Maximo::'
+          req_class_name            : 'APoline'
+          req_pkg_or_mod_class_name : 'Scripting::Db::Maximo::APoline'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxvars.rb
+      req_file_name_without_ext: maxvars
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part_array: scripting/db/maximo
+      file_part: maxvars.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxvars.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxvars.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxvars.rb'
+          aka                       : 'maxvars'
+          req_pkg_or_mod_name       : 'Scripting::Db::Maximo::'
+          req_class_name            : 'Maxvars'
+          req_pkg_or_mod_class_name : 'Scripting::Db::Maximo::Maxvars'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/crontaskdef.rb
+      req_file_name_without_ext: crontaskdef
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part_array: scripting/db/maximo
+      file_part: crontaskdef.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/crontaskdef.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/crontaskdef.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/crontaskdef.rb'
+          aka                       : 'crontaskdef'
+          req_pkg_or_mod_name       : 'Scripting::Db::Maximo::'
+          req_class_name            : 'Crontaskdef'
+          req_pkg_or_mod_class_name : 'Scripting::Db::Maximo::Crontaskdef'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxobjectcfg.rb
+      req_file_name_without_ext: maxobjectcfg
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part_array: scripting/db/maximo
+      file_part: maxobjectcfg.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxobjectcfg.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxobjectcfg.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxobjectcfg.rb'
+          aka                       : 'maxobjectcfg'
+          req_pkg_or_mod_name       : 'Scripting::Db::Maximo::'
+          req_class_name            : 'Maxobjectcfg'
+          req_pkg_or_mod_class_name : 'Scripting::Db::Maximo::Maxobjectcfg'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxattributecfg.rb
+      req_file_name_without_ext: maxattributecfg
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part_array: scripting/db/maximo
+      file_part: maxattributecfg.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxattributecfg.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxattributecfg.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxattributecfg.rb'
+          aka                       : 'maxattributecfg'
+          req_pkg_or_mod_name       : 'Scripting::Db::Maximo::'
+          req_class_name            : 'Maxattributecfg'
+          req_pkg_or_mod_class_name : 'Scripting::Db::Maximo::Maxattributecfg'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/matrectrans.rb
+      req_file_name_without_ext: matrectrans
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part_array: scripting/db/maximo
+      file_part: matrectrans.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/matrectrans.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/matrectrans.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/matrectrans.rb'
+          aka                       : 'matrectrans'
+          req_pkg_or_mod_name       : 'Scripting::Db::Maximo::'
+          req_class_name            : 'Matrectrans'
+          req_pkg_or_mod_class_name : 'Scripting::Db::Maximo::Matrectrans'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/po.rb
+      req_file_name_without_ext: po
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part_array: scripting/db/maximo
+      file_part: po.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/po.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/po.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/po.rb'
+          aka                       : 'po'
+          req_pkg_or_mod_name       : 'Scripting::Db::Maximo::'
+          req_class_name            : 'Po'
+          req_pkg_or_mod_class_name : 'Scripting::Db::Maximo::Po'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxobject.rb
+      req_file_name_without_ext: maxobject
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part_array: scripting/db/maximo
+      file_part: maxobject.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxobject.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxobject.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxobject.rb'
+          aka                       : 'maxobject'
+          req_pkg_or_mod_name       : 'Scripting::Db::Maximo::'
+          req_class_name            : 'Maxobject'
+          req_pkg_or_mod_class_name : 'Scripting::Db::Maximo::Maxobject'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/locations.rb
+      req_file_name_without_ext: locations
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part_array: scripting/db/maximo
+      file_part: locations.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/locations.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/locations.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/locations.rb'
+          aka                       : 'locations'
+          req_pkg_or_mod_name       : 'Scripting::Db::Maximo::'
+          req_class_name            : 'Locations'
+          req_pkg_or_mod_class_name : 'Scripting::Db::Maximo::Locations'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/a_matrectrans.rb
+      req_file_name_without_ext: a_matrectrans
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part_array: scripting/db/maximo
+      file_part: a_matrectrans.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/a_matrectrans.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/a_matrectrans.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/a_matrectrans.rb'
+          aka                       : 'a_matrectrans'
+          req_pkg_or_mod_name       : 'Scripting::Db::Maximo::'
+          req_class_name            : 'AMatrectrans'
+          req_pkg_or_mod_class_name : 'Scripting::Db::Maximo::AMatrectrans'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/pocost.rb
+      req_file_name_without_ext: pocost
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part_array: scripting/db/maximo
+      file_part: pocost.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/pocost.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/pocost.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/pocost.rb'
+          aka                       : 'pocost'
+          req_pkg_or_mod_name       : 'Scripting::Db::Maximo::'
+          req_class_name            : 'Pocost'
+          req_pkg_or_mod_class_name : 'Scripting::Db::Maximo::Pocost'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxpresentation.rb
+      req_file_name_without_ext: maxpresentation
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part: scripting/db/maximo, sub_script_root_part.length == 19
+      sub_script_root_part_array: scripting/db/maximo
+      file_part: maxpresentation.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxpresentation.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxpresentation.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/maximo/maxpresentation.rb'
+          aka                       : 'maxpresentation'
+          req_pkg_or_mod_name       : 'Scripting::Db::Maximo::'
+          req_class_name            : 'Maxpresentation'
+          req_pkg_or_mod_class_name : 'Scripting::Db::Maximo::Maxpresentation'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/core/db/mssql/mssql_table.rb
+      req_file_name_without_ext: mssql_table
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/core/db/mssql, sub_script_root_part.length == 23
+      sub_script_root_part: scripting/core/db/mssql, sub_script_root_part.length == 23
+      sub_script_root_part_array: scripting/core/db/mssql
+      file_part: mssql_table.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/core/db/mssql/mssql_table.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/core/db/mssql/mssql_table.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/core/db/mssql/mssql_table.rb'
+          aka                       : 'mssql_table'
+          req_pkg_or_mod_name       : 'Scripting::Core::Db::Mssql::'
+          req_class_name            : 'MssqlTable'
+          req_pkg_or_mod_class_name : 'Scripting::Core::Db::Mssql::MssqlTable'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/core/logging/logger.rb
+      req_file_name_without_ext: logger
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/core/logging, sub_script_root_part.length == 22
+      sub_script_root_part: scripting/core/logging, sub_script_root_part.length == 22
+      sub_script_root_part_array: scripting/core/logging
+      file_part: logger.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/core/logging/logger.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/core/logging/logger.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/core/logging/logger.rb'
+          aka                       : 'logger'
+          req_pkg_or_mod_name       : 'Scripting::Core::Logging::'
+          req_class_name            : 'Logger'
+          req_pkg_or_mod_class_name : 'Scripting::Core::Logging::Logger'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/core/ui/script_picker.rb
+      req_file_name_without_ext: script_picker
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/core/ui, sub_script_root_part.length == 17
+      sub_script_root_part: scripting/core/ui, sub_script_root_part.length == 17
+      sub_script_root_part_array: scripting/core/ui
+      file_part: script_picker.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/core/ui/script_picker.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/core/ui/script_picker.rb''
+Is 'jython.jar' at: '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/core/ui../../../../../java/lib/jython.jar'?
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/core/ui/script_picker.rb'
+          aka                       : 'script_picker'
+          req_pkg_or_mod_name       : 'Scripting::Core::Ui::'
+          req_class_name            : 'ScriptPicker'
+          req_pkg_or_mod_class_name : 'Scripting::Core::Ui::ScriptPicker'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/core/ui/file_picker.rb
+      req_file_name_without_ext: file_picker
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/core/ui, sub_script_root_part.length == 17
+      sub_script_root_part: scripting/core/ui, sub_script_root_part.length == 17
+      sub_script_root_part_array: scripting/core/ui
+      file_part: file_picker.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/core/ui/file_picker.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/core/ui/file_picker.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/core/ui/file_picker.rb'
+          aka                       : 'file_picker'
+          req_pkg_or_mod_name       : 'Scripting::Core::Ui::'
+          req_class_name            : 'FilePicker'
+          req_pkg_or_mod_class_name : 'Scripting::Core::Ui::FilePicker'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/core/ui/conn_param_panel.rb
+      req_file_name_without_ext: conn_param_panel
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/core/ui, sub_script_root_part.length == 17
+      sub_script_root_part: scripting/core/ui, sub_script_root_part.length == 17
+      sub_script_root_part_array: scripting/core/ui
+      file_part: conn_param_panel.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/core/ui/conn_param_panel.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/core/ui/conn_param_panel.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/core/ui/conn_param_panel.rb'
+          aka                       : 'conn_param_panel'
+          req_pkg_or_mod_name       : 'Scripting::Core::Ui::'
+          req_class_name            : 'ConnParamPanel'
+          req_pkg_or_mod_class_name : 'Scripting::Core::Ui::ConnParamPanel'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/core/ui/special_values.rb
+      req_file_name_without_ext: special_values
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/core/ui, sub_script_root_part.length == 17
+      sub_script_root_part: scripting/core/ui, sub_script_root_part.length == 17
+      sub_script_root_part_array: scripting/core/ui
+      file_part: special_values.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/core/ui/special_values.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/core/ui/special_values.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/core/ui/special_values.rb'
+          aka                       : 'special_values'
+          req_pkg_or_mod_name       : 'Scripting::Core::Ui::'
+          req_class_name            : 'SpecialValues'
+          req_pkg_or_mod_class_name : 'Scripting::Core::Ui::SpecialValues'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/core/ui/script_runner.rb
+      req_file_name_without_ext: script_runner
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/core/ui, sub_script_root_part.length == 17
+      sub_script_root_part: scripting/core/ui, sub_script_root_part.length == 17
+      sub_script_root_part_array: scripting/core/ui
+      file_part: script_runner.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/core/ui/script_runner.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/core/ui/script_runner.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/core/ui/script_runner.rb'
+          aka                       : 'script_runner'
+          req_pkg_or_mod_name       : 'Scripting::Core::Ui::'
+          req_class_name            : 'ScriptRunner'
+          req_pkg_or_mod_class_name : 'Scripting::Core::Ui::ScriptRunner'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/db/gen_erds.rb
+      req_file_name_without_ext: gen_erds
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/scripts/db, sub_script_root_part.length == 20
+      sub_script_root_part: scripting/scripts/db, sub_script_root_part.length == 20
+      sub_script_root_part_array: scripting/scripts/db
+      file_part: gen_erds.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/db/gen_erds.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/db/gen_erds.rb''
+        Error requiring             : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/db/gen_erds.rb'
+          Error                     : #<NameError: uninitialized constant Scripting::Db::FggMaximoDataloads>
+Exception => e == #<NameError: uninitialized constant Scripting::Scripts::Db::GenErds>
+ ... backtrace == 
+ >> (eval):1:in `include_for_path_and_file_filter'
+ >> start.rb:177:in `eval'
+ >> start.rb:177:in `include_for_path_and_file_filter'
+ >> start.rb:70:in `each'
+ >> start.rb:70:in `include_for_path_and_file_filter'
+ >> start.rb:327:in `include_dependant_files_and_get_scripts'
+ >> start.rb:318:in `each'
+ >> start.rb:318:in `include_dependant_files_and_get_scripts'
+ >> start.rb:339:in `(root)'
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/websphere/get_node_info.rb
+      req_file_name_without_ext: get_node_info
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/scripts/websphere, sub_script_root_part.length == 27
+      sub_script_root_part: scripting/scripts/websphere, sub_script_root_part.length == 27
+      sub_script_root_part_array: scripting/scripts/websphere
+      file_part: get_node_info.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/websphere/get_node_info.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/websphere/get_node_info.rb''
+        Error requiring             : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/websphere/get_node_info.rb'
+          Error                     : #<NameError: uninitialized constant Scripting::Scripts::Common>
+
+          ... and it is a subclass of 'AbstractScript'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/websphere/get_info.rb
+      req_file_name_without_ext: get_info
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/scripts/websphere, sub_script_root_part.length == 27
+      sub_script_root_part: scripting/scripts/websphere, sub_script_root_part.length == 27
+      sub_script_root_part_array: scripting/scripts/websphere
+      file_part: get_info.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/websphere/get_info.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/websphere/get_info.rb''
+        Error requiring             : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/websphere/get_info.rb'
+          Error                     : #<NameError: uninitialized constant Scripting::Scripts::Common>
+
+          ... and it is a subclass of 'AbstractScript'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/utils/lowercase_all_filenames.rb
+      req_file_name_without_ext: lowercase_all_filenames
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/scripts/utils, sub_script_root_part.length == 23
+      sub_script_root_part: scripting/scripts/utils, sub_script_root_part.length == 23
+      sub_script_root_part_array: scripting/scripts/utils
+      file_part: lowercase_all_filenames.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/utils/lowercase_all_filenames.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/utils/lowercase_all_filenames.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/utils/lowercase_all_filenames.rb'
+          aka                       : 'lowercase_all_filenames'
+          req_pkg_or_mod_name       : 'Scripting::Scripts::Utils::'
+          req_class_name            : 'LowercaseAllFilenames'
+          req_pkg_or_mod_class_name : 'Scripting::Scripts::Utils::LowercaseAllFilenames'
+
+          ... and it is a subclass of 'AbstractScript'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/utils/prep_sql_def_for_xml.rb
+      req_file_name_without_ext: prep_sql_def_for_xml
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/scripts/utils, sub_script_root_part.length == 23
+      sub_script_root_part: scripting/scripts/utils, sub_script_root_part.length == 23
+      sub_script_root_part_array: scripting/scripts/utils
+      file_part: prep_sql_def_for_xml.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/utils/prep_sql_def_for_xml.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/utils/prep_sql_def_for_xml.rb''
+        Error requiring             : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/utils/prep_sql_def_for_xml.rb'
+          Error                     : #<NameError: uninitialized constant Scripting::Db::FggMaximoDataloads>
+Exception => e == #<NameError: uninitialized constant Scripting::Scripts::Utils::PrepSqlDefForXml>
+ ... backtrace == 
+ >> (eval):1:in `include_for_path_and_file_filter'
+ >> start.rb:177:in `eval'
+ >> start.rb:177:in `include_for_path_and_file_filter'
+ >> start.rb:70:in `each'
+ >> start.rb:70:in `include_for_path_and_file_filter'
+ >> start.rb:327:in `include_dependant_files_and_get_scripts'
+ >> start.rb:318:in `each'
+ >> start.rb:318:in `include_dependant_files_and_get_scripts'
+ >> start.rb:339:in `(root)'
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/utils/compare_xml.rb
+      req_file_name_without_ext: compare_xml
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/scripts/utils, sub_script_root_part.length == 23
+      sub_script_root_part: scripting/scripts/utils, sub_script_root_part.length == 23
+      sub_script_root_part_array: scripting/scripts/utils
+      file_part: compare_xml.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/utils/compare_xml.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/utils/compare_xml.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/utils/compare_xml.rb'
+          aka                       : 'compare_xml'
+          req_pkg_or_mod_name       : 'Scripting::Scripts::Utils::'
+          req_class_name            : 'CompareXml'
+          req_pkg_or_mod_class_name : 'Scripting::Scripts::Utils::CompareXml'
+
+          ... and it is a subclass of 'AbstractScript'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/utils/regexp_search.rb
+      req_file_name_without_ext: regexp_search
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/scripts/utils, sub_script_root_part.length == 23
+      sub_script_root_part: scripting/scripts/utils, sub_script_root_part.length == 23
+      sub_script_root_part_array: scripting/scripts/utils
+      file_part: regexp_search.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/utils/regexp_search.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/utils/regexp_search.rb''
+        Error requiring             : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/utils/regexp_search.rb'
+          Error                     : #<NameError: uninitialized constant Scripting::Scripts::Common>
+
+          ... and it is a subclass of 'AbstractScript'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/utils/file_sync.rb
+      req_file_name_without_ext: file_sync
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/scripts/utils, sub_script_root_part.length == 23
+      sub_script_root_part: scripting/scripts/utils, sub_script_root_part.length == 23
+      sub_script_root_part_array: scripting/scripts/utils
+      file_part: file_sync.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/utils/file_sync.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/utils/file_sync.rb''
+        Error requiring             : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/utils/file_sync.rb'
+          Error                     : #<NameError: uninitialized constant Scripting::Scripts::Common>
+
+          ... and it is a subclass of 'AbstractScript'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/export_birt_reports.rb
+      req_file_name_without_ext: export_birt_reports
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/scripts/maximo, sub_script_root_part.length == 24
+      sub_script_root_part: scripting/scripts/maximo, sub_script_root_part.length == 24
+      sub_script_root_part_array: scripting/scripts/maximo
+      file_part: export_birt_reports.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/export_birt_reports.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/export_birt_reports.rb''
+        Error requiring             : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/export_birt_reports.rb'
+          Error                     : #<NameError: uninitialized constant Scripting::Db::Maximo::YourDbServer>
+Exception => e == #<NameError: uninitialized constant Scripting::Scripts::Maximo::ExportBirtReports>
+ ... backtrace == 
+ >> (eval):1:in `include_for_path_and_file_filter'
+ >> start.rb:177:in `eval'
+ >> start.rb:177:in `include_for_path_and_file_filter'
+ >> start.rb:70:in `each'
+ >> start.rb:70:in `include_for_path_and_file_filter'
+ >> start.rb:327:in `include_dependant_files_and_get_scripts'
+ >> start.rb:318:in `each'
+ >> start.rb:318:in `include_dependant_files_and_get_scripts'
+ >> start.rb:339:in `(root)'
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/mx_graph_dot_obj.rb
+      req_file_name_without_ext: mx_graph_dot_obj
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/scripts/maximo, sub_script_root_part.length == 24
+      sub_script_root_part: scripting/scripts/maximo, sub_script_root_part.length == 24
+      sub_script_root_part_array: scripting/scripts/maximo
+      file_part: mx_graph_dot_obj.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/mx_graph_dot_obj.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/mx_graph_dot_obj.rb''
+        Error requiring             : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/mx_graph_dot_obj.rb'
+          Error                     : #<NameError: uninitialized constant Scripting::Scripts::Common>
+Exception => e == #<NameError: uninitialized constant Scripting::Scripts::Maximo::MxGraphDotObj>
+ ... backtrace == 
+ >> (eval):1:in `include_for_path_and_file_filter'
+ >> start.rb:177:in `eval'
+ >> start.rb:177:in `include_for_path_and_file_filter'
+ >> start.rb:70:in `each'
+ >> start.rb:70:in `include_for_path_and_file_filter'
+ >> start.rb:327:in `include_dependant_files_and_get_scripts'
+ >> start.rb:318:in `each'
+ >> start.rb:318:in `include_dependant_files_and_get_scripts'
+ >> start.rb:339:in `(root)'
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/clean_xml_maxpresentation.rb
+      req_file_name_without_ext: clean_xml_maxpresentation
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/scripts/maximo, sub_script_root_part.length == 24
+      sub_script_root_part: scripting/scripts/maximo, sub_script_root_part.length == 24
+      sub_script_root_part_array: scripting/scripts/maximo
+      file_part: clean_xml_maxpresentation.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/clean_xml_maxpresentation.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/clean_xml_maxpresentation.rb''
+        Error requiring             : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/clean_xml_maxpresentation.rb'
+          Error                     : #<NameError: uninitialized constant Scripting::Db::Maximo::YourDbServer>
+Exception => e == #<NameError: uninitialized constant Scripting::Scripts::Maximo::CleanXmlMaxpresentation>
+ ... backtrace == 
+ >> (eval):1:in `include_for_path_and_file_filter'
+ >> start.rb:177:in `eval'
+ >> start.rb:177:in `include_for_path_and_file_filter'
+ >> start.rb:70:in `each'
+ >> start.rb:70:in `include_for_path_and_file_filter'
+ >> start.rb:327:in `include_dependant_files_and_get_scripts'
+ >> start.rb:318:in `each'
+ >> start.rb:318:in `include_dependant_files_and_get_scripts'
+ >> start.rb:339:in `(root)'
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/mx_erd.rb
+      req_file_name_without_ext: mx_erd
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/scripts/maximo, sub_script_root_part.length == 24
+      sub_script_root_part: scripting/scripts/maximo, sub_script_root_part.length == 24
+      sub_script_root_part_array: scripting/scripts/maximo
+      file_part: mx_erd.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/mx_erd.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/mx_erd.rb''
+        Error requiring             : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/mx_erd.rb'
+          Error                     : #<NameError: uninitialized constant Scripting::Scripts::Common>
+Exception => e == #<NameError: uninitialized constant Scripting::Scripts::Maximo::MxErd>
+ ... backtrace == 
+ >> (eval):1:in `include_for_path_and_file_filter'
+ >> start.rb:177:in `eval'
+ >> start.rb:177:in `include_for_path_and_file_filter'
+ >> start.rb:70:in `each'
+ >> start.rb:70:in `include_for_path_and_file_filter'
+ >> start.rb:327:in `include_dependant_files_and_get_scripts'
+ >> start.rb:318:in `each'
+ >> start.rb:318:in `include_dependant_files_and_get_scripts'
+ >> start.rb:339:in `(root)'
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/export_longdescription_jp_jt.rb
+      req_file_name_without_ext: export_longdescription_jp_jt
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/scripts/maximo, sub_script_root_part.length == 24
+      sub_script_root_part: scripting/scripts/maximo, sub_script_root_part.length == 24
+      sub_script_root_part_array: scripting/scripts/maximo
+      file_part: export_longdescription_jp_jt.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/export_longdescription_jp_jt.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/export_longdescription_jp_jt.rb''
+        Error requiring             : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/export_longdescription_jp_jt.rb'
+          Error                     : #<NameError: uninitialized constant Scripting::Db::Maximo::YourDbServer>
+Exception => e == #<NameError: uninitialized constant Scripting::Scripts::Maximo::ExportLongdescriptionJpJt>
+ ... backtrace == 
+ >> (eval):1:in `include_for_path_and_file_filter'
+ >> start.rb:177:in `eval'
+ >> start.rb:177:in `include_for_path_and_file_filter'
+ >> start.rb:70:in `each'
+ >> start.rb:70:in `include_for_path_and_file_filter'
+ >> start.rb:327:in `include_dependant_files_and_get_scripts'
+ >> start.rb:318:in `each'
+ >> start.rb:318:in `include_dependant_files_and_get_scripts'
+ >> start.rb:339:in `(root)'
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/export_maxpresentation.rb
+      req_file_name_without_ext: export_maxpresentation
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/scripts/maximo, sub_script_root_part.length == 24
+      sub_script_root_part: scripting/scripts/maximo, sub_script_root_part.length == 24
+      sub_script_root_part_array: scripting/scripts/maximo
+      file_part: export_maxpresentation.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/export_maxpresentation.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/export_maxpresentation.rb''
+        Error requiring             : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/export_maxpresentation.rb'
+          Error                     : #<NameError: uninitialized constant Scripting::Db::Maximo::YourDbServer>
+Exception => e == #<NameError: uninitialized constant Scripting::Scripts::Maximo::ExportMaxpresentation>
+ ... backtrace == 
+ >> (eval):1:in `include_for_path_and_file_filter'
+ >> start.rb:177:in `eval'
+ >> start.rb:177:in `include_for_path_and_file_filter'
+ >> start.rb:70:in `each'
+ >> start.rb:70:in `include_for_path_and_file_filter'
+ >> start.rb:327:in `include_dependant_files_and_get_scripts'
+ >> start.rb:318:in `each'
+ >> start.rb:318:in `include_dependant_files_and_get_scripts'
+ >> start.rb:339:in `(root)'
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/graph_dot_obj.rb
+      req_file_name_without_ext: graph_dot_obj
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/scripts/maximo, sub_script_root_part.length == 24
+      sub_script_root_part: scripting/scripts/maximo, sub_script_root_part.length == 24
+      sub_script_root_part_array: scripting/scripts/maximo
+      file_part: graph_dot_obj.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/graph_dot_obj.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/graph_dot_obj.rb''
+        Error requiring             : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/graph_dot_obj.rb'
+          Error                     : #<NameError: uninitialized constant Scripting::Scripts::Common>
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/erd/dyn_erd.rb
+      req_file_name_without_ext: dyn_erd
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/scripts/maximo/erd, sub_script_root_part.length == 28
+      sub_script_root_part: scripting/scripts/maximo/erd, sub_script_root_part.length == 28
+      sub_script_root_part_array: scripting/scripts/maximo/erd
+      file_part: dyn_erd.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/erd/dyn_erd.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/erd/dyn_erd.rb''
+        Error requiring             : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/erd/dyn_erd.rb'
+          Error                     : #<NameError: missing class or uppercase package name (`org.eclipse.swt.widgets.Display'), caused by (NameError) cannot link Java class org.eclipse.swt.widgets.Display, probable missing dependency: Cannot load 32-bit SWT libraries on 64-bit JVM>
+Exception => e == #<NameError: uninitialized constant Scripting::Scripts::Maximo::Erd::DynErd>
+ ... backtrace == 
+ >> (eval):1:in `include_for_path_and_file_filter'
+ >> start.rb:177:in `eval'
+ >> start.rb:177:in `include_for_path_and_file_filter'
+ >> start.rb:70:in `each'
+ >> start.rb:70:in `include_for_path_and_file_filter'
+ >> start.rb:327:in `include_dependant_files_and_get_scripts'
+ >> start.rb:318:in `each'
+ >> start.rb:318:in `include_dependant_files_and_get_scripts'
+ >> start.rb:339:in `(root)'
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/logs/count_exception_lines.rb
+      req_file_name_without_ext: count_exception_lines
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/scripts/maximo/logs, sub_script_root_part.length == 29
+      sub_script_root_part: scripting/scripts/maximo/logs, sub_script_root_part.length == 29
+      sub_script_root_part_array: scripting/scripts/maximo/logs
+      file_part: count_exception_lines.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/logs/count_exception_lines.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/logs/count_exception_lines.rb''
+        Error requiring             : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/logs/count_exception_lines.rb'
+          Error                     : #<NameError: uninitialized constant Scripting::Db::FggMaximoDataloads>
+Exception => e == #<NameError: uninitialized constant Scripting::Scripts::Maximo::Logs::CountExceptionLines>
+ ... backtrace == 
+ >> (eval):1:in `include_for_path_and_file_filter'
+ >> start.rb:177:in `eval'
+ >> start.rb:177:in `include_for_path_and_file_filter'
+ >> start.rb:70:in `each'
+ >> start.rb:70:in `include_for_path_and_file_filter'
+ >> start.rb:327:in `include_dependant_files_and_get_scripts'
+ >> start.rb:318:in `each'
+ >> start.rb:318:in `include_dependant_files_and_get_scripts'
+ >> start.rb:339:in `(root)'
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/logs/grab_error_lines_uncaught_exception_in_servlet.rb
+      req_file_name_without_ext: grab_error_lines_uncaught_exception_in_servlet
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/scripts/maximo/logs, sub_script_root_part.length == 29
+      sub_script_root_part: scripting/scripts/maximo/logs, sub_script_root_part.length == 29
+      sub_script_root_part_array: scripting/scripts/maximo/logs
+      file_part: grab_error_lines_uncaught_exception_in_servlet.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/logs/grab_error_lines_uncaught_exception_in_servlet.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/logs/grab_error_lines_uncaught_exception_in_servlet.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/maximo/logs/grab_error_lines_uncaught_exception_in_servlet.rb'
+          aka                       : 'grab_error_lines_uncaught_exception_in_servlet'
+          req_pkg_or_mod_name       : 'Scripting::Scripts::Maximo::Logs::'
+          req_class_name            : 'GrabErrorLinesUncaughtExceptionInServlet'
+          req_pkg_or_mod_class_name : 'Scripting::Scripts::Maximo::Logs::GrabErrorLinesUncaughtExceptionInServlet'
+
+          ... and it is a subclass of 'AbstractScript'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/common/exportable.rb
+      req_file_name_without_ext: exportable
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/scripts/common, sub_script_root_part.length == 24
+      sub_script_root_part: scripting/scripts/common, sub_script_root_part.length == 24
+      sub_script_root_part_array: scripting/scripts/common
+      file_part: exportable.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/common/exportable.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/common/exportable.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/common/exportable.rb'
+          aka                       : 'exportable'
+          req_pkg_or_mod_name       : 'Scripting::Scripts::Common::'
+          req_class_name            : 'Exportable'
+          req_pkg_or_mod_class_name : 'Scripting::Scripts::Common::Exportable'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/common/misc.rb
+      req_file_name_without_ext: misc
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/scripts/common, sub_script_root_part.length == 24
+      sub_script_root_part: scripting/scripts/common, sub_script_root_part.length == 24
+      sub_script_root_part_array: scripting/scripts/common
+      file_part: misc.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/common/misc.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/common/misc.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/common/misc.rb'
+          aka                       : 'misc'
+          req_pkg_or_mod_name       : 'Scripting::Scripts::Common::'
+          req_class_name            : 'Misc'
+          req_pkg_or_mod_class_name : 'Scripting::Scripts::Common::Misc'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/common/exception_handling.rb
+      req_file_name_without_ext: exception_handling
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/scripts/common, sub_script_root_part.length == 24
+      sub_script_root_part: scripting/scripts/common, sub_script_root_part.length == 24
+      sub_script_root_part_array: scripting/scripts/common
+      file_part: exception_handling.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/common/exception_handling.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/common/exception_handling.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/common/exception_handling.rb'
+          aka                       : 'exception_handling'
+          req_pkg_or_mod_name       : 'Scripting::Scripts::Common::'
+          req_class_name            : 'ExceptionHandling'
+          req_pkg_or_mod_class_name : 'Scripting::Scripts::Common::ExceptionHandling'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/common/xml.rb
+      req_file_name_without_ext: xml
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/scripts/common, sub_script_root_part.length == 24
+      sub_script_root_part: scripting/scripts/common, sub_script_root_part.length == 24
+      sub_script_root_part_array: scripting/scripts/common
+      file_part: xml.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/common/xml.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/common/xml.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/common/xml.rb'
+          aka                       : 'xml'
+          req_pkg_or_mod_name       : 'Scripting::Scripts::Common::'
+          req_class_name            : 'Xml'
+          req_pkg_or_mod_class_name : 'Scripting::Scripts::Common::Xml'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_script_jruby_maximo_envs.rb
+      req_file_name_without_ext: sample_script_jruby_maximo_envs
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/scripts/samples, sub_script_root_part.length == 25
+      sub_script_root_part: scripting/scripts/samples, sub_script_root_part.length == 25
+      sub_script_root_part_array: scripting/scripts/samples
+      file_part: sample_script_jruby_maximo_envs.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_script_jruby_maximo_envs.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_script_jruby_maximo_envs.rb''
+        Error requiring             : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_script_jruby_maximo_envs.rb'
+          Error                     : #<LoadError: no such file to load -- /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/db/fgg_maximo_dataloads/fmdtbl>
+Exception => e == #<NameError: uninitialized constant Scripting::Scripts::Samples::SampleScriptJrubyMaximoEnvs>
+ ... backtrace == 
+ >> (eval):1:in `include_for_path_and_file_filter'
+ >> start.rb:177:in `eval'
+ >> start.rb:177:in `include_for_path_and_file_filter'
+ >> start.rb:70:in `each'
+ >> start.rb:70:in `include_for_path_and_file_filter'
+ >> start.rb:327:in `include_dependant_files_and_get_scripts'
+ >> start.rb:318:in `each'
+ >> start.rb:318:in `include_dependant_files_and_get_scripts'
+ >> start.rb:339:in `(root)'
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_script_jruby.rb
+      req_file_name_without_ext: sample_script_jruby
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/scripts/samples, sub_script_root_part.length == 25
+      sub_script_root_part: scripting/scripts/samples, sub_script_root_part.length == 25
+      sub_script_root_part_array: scripting/scripts/samples
+      file_part: sample_script_jruby.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_script_jruby.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_script_jruby.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_script_jruby.rb'
+          aka                       : 'sample_script_jruby'
+          req_pkg_or_mod_name       : 'Scripting::Scripts::Samples::'
+          req_class_name            : 'SampleScriptJruby'
+          req_pkg_or_mod_class_name : 'Scripting::Scripts::Samples::SampleScriptJruby'
+
+          ... and it is a subclass of 'AbstractScript'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_script_jruby_swt2.rb
+      req_file_name_without_ext: sample_script_jruby_swt2
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/scripts/samples, sub_script_root_part.length == 25
+      sub_script_root_part: scripting/scripts/samples, sub_script_root_part.length == 25
+      sub_script_root_part_array: scripting/scripts/samples
+      file_part: sample_script_jruby_swt2.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_script_jruby_swt2.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_script_jruby_swt2.rb''
+        Error requiring             : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_script_jruby_swt2.rb'
+          Error                     : #<NameError: missing class or uppercase package name (`org.eclipse.swt.widgets.Display'), caused by (NameError) cannot link Java class org.eclipse.swt.widgets.Display, probable missing dependency: Could not initialize class org.eclipse.swt.widgets.Display>
+Exception => e == #<NameError: uninitialized constant Scripting::Scripts::Samples::SampleScriptJrubySwt2>
+ ... backtrace == 
+ >> (eval):1:in `include_for_path_and_file_filter'
+ >> start.rb:177:in `eval'
+ >> start.rb:177:in `include_for_path_and_file_filter'
+ >> start.rb:70:in `each'
+ >> start.rb:70:in `include_for_path_and_file_filter'
+ >> start.rb:327:in `include_dependant_files_and_get_scripts'
+ >> start.rb:318:in `each'
+ >> start.rb:318:in `include_dependant_files_and_get_scripts'
+ >> start.rb:339:in `(root)'
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_script_jruby_swt.rb
+      req_file_name_without_ext: sample_script_jruby_swt
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/scripts/samples, sub_script_root_part.length == 25
+      sub_script_root_part: scripting/scripts/samples, sub_script_root_part.length == 25
+      sub_script_root_part_array: scripting/scripts/samples
+      file_part: sample_script_jruby_swt.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_script_jruby_swt.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_script_jruby_swt.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_script_jruby_swt.rb'
+          aka                       : 'sample_script_jruby_swt'
+          req_pkg_or_mod_name       : 'Scripting::Scripts::Samples::'
+          req_class_name            : 'SampleScriptJrubySwt'
+          req_pkg_or_mod_class_name : 'Scripting::Scripts::Samples::SampleScriptJrubySwt'
+
+          ... and it is a subclass of 'AbstractScript'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_tree.rb
+      req_file_name_without_ext: sample_tree
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/scripts/samples, sub_script_root_part.length == 25
+      sub_script_root_part: scripting/scripts/samples, sub_script_root_part.length == 25
+      sub_script_root_part_array: scripting/scripts/samples
+      file_part: sample_tree.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_tree.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_tree.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_tree.rb'
+          aka                       : 'sample_tree'
+          req_pkg_or_mod_name       : 'Scripting::Scripts::Samples::'
+          req_class_name            : 'SampleTree'
+          req_pkg_or_mod_class_name : 'Scripting::Scripts::Samples::SampleTree'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_script_jruby_with_options.rb
+      req_file_name_without_ext: sample_script_jruby_with_options
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/scripts/samples, sub_script_root_part.length == 25
+      sub_script_root_part: scripting/scripts/samples, sub_script_root_part.length == 25
+      sub_script_root_part_array: scripting/scripts/samples
+      file_part: sample_script_jruby_with_options.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_script_jruby_with_options.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_script_jruby_with_options.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_script_jruby_with_options.rb'
+          aka                       : 'sample_script_jruby_with_options'
+          req_pkg_or_mod_name       : 'Scripting::Scripts::Samples::'
+          req_class_name            : 'SampleScriptJrubyWithOptions'
+          req_pkg_or_mod_class_name : 'Scripting::Scripts::Samples::SampleScriptJrubyWithOptions'
+
+          ... and it is a subclass of 'AbstractScript'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_script_jruby_svg.rb
+      req_file_name_without_ext: sample_script_jruby_svg
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/scripts/samples, sub_script_root_part.length == 25
+      sub_script_root_part: scripting/scripts/samples, sub_script_root_part.length == 25
+      sub_script_root_part_array: scripting/scripts/samples
+      file_part: sample_script_jruby_svg.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_script_jruby_svg.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_script_jruby_svg.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_script_jruby_svg.rb'
+          aka                       : 'sample_script_jruby_svg'
+          req_pkg_or_mod_name       : 'Scripting::Scripts::Samples::'
+          req_class_name            : 'SampleScriptJrubySvg'
+          req_pkg_or_mod_class_name : 'Scripting::Scripts::Samples::SampleScriptJrubySvg'
+
+          ... and it is a subclass of 'AbstractScript'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_script_jruby_maximo.rb
+      req_file_name_without_ext: sample_script_jruby_maximo
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/scripts/samples, sub_script_root_part.length == 25
+      sub_script_root_part: scripting/scripts/samples, sub_script_root_part.length == 25
+      sub_script_root_part_array: scripting/scripts/samples
+      file_part: sample_script_jruby_maximo.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_script_jruby_maximo.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_script_jruby_maximo.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_script_jruby_maximo.rb'
+          aka                       : 'sample_script_jruby_maximo'
+          req_pkg_or_mod_name       : 'Scripting::Scripts::Samples::'
+          req_class_name            : 'SampleScriptJrubyMaximo'
+          req_pkg_or_mod_class_name : 'Scripting::Scripts::Samples::SampleScriptJrubyMaximo'
+
+          ... and it is a subclass of 'AbstractScript'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_script_jtree.rb
+      req_file_name_without_ext: sample_script_jtree
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/scripts/samples, sub_script_root_part.length == 25
+      sub_script_root_part: scripting/scripts/samples, sub_script_root_part.length == 25
+      sub_script_root_part_array: scripting/scripts/samples
+      file_part: sample_script_jtree.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_script_jtree.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_script_jtree.rb''
+        Error requiring             : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_script_jtree.rb'
+          Error                     : #<NameError: uninitialized constant Scripting::Db::FggMaximoDataloads>
+Exception => e == #<NameError: uninitialized constant Scripting::Scripts::Samples::SampleScriptJtree>
+ ... backtrace == 
+ >> (eval):1:in `include_for_path_and_file_filter'
+ >> start.rb:177:in `eval'
+ >> start.rb:177:in `include_for_path_and_file_filter'
+ >> start.rb:70:in `each'
+ >> start.rb:70:in `include_for_path_and_file_filter'
+ >> start.rb:327:in `include_dependant_files_and_get_scripts'
+ >> start.rb:318:in `each'
+ >> start.rb:318:in `include_dependant_files_and_get_scripts'
+ >> start.rb:339:in `(root)'
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_script_jruby_maximo_get_storerooms.rb
+      req_file_name_without_ext: sample_script_jruby_maximo_get_storerooms
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby, @script_root.length == 50
+      sub_script_root_part: scripting/scripts/samples, sub_script_root_part.length == 25
+      sub_script_root_part: scripting/scripts/samples, sub_script_root_part.length == 25
+      sub_script_root_part_array: scripting/scripts/samples
+      file_part: sample_script_jruby_maximo_get_storerooms.rb
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_script_jruby_maximo_get_storerooms.rb
+
+          ... req_or_include_cmd    : 'require '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_script_jruby_maximo_get_storerooms.rb''
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jruby/scripting/scripts/samples/sample_script_jruby_maximo_get_storerooms.rb'
+          aka                       : 'sample_script_jruby_maximo_get_storerooms'
+          req_pkg_or_mod_name       : 'Scripting::Scripts::Samples::'
+          req_class_name            : 'SampleScriptJrubyMaximoGetStorerooms'
+          req_pkg_or_mod_class_name : 'Scripting::Scripts::Samples::SampleScriptJrubyMaximoGetStorerooms'
+
+          ... and it is a subclass of 'AbstractScript'
+
+
+path_root == /jython
+sub_path == /scripting
+file_filter == /**/*.py
+
+    path_root      : /jython
+    sub_path       : /scripting
+    file_filter    : /**/*.py
+    .. @script_root: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jython
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jython/scripting/__init__.py
+      req_file_name_without_ext: __init__
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jython, @script_root.length == 51
+      sub_script_root_part: scripting, sub_script_root_part.length == 9
+      sub_script_root_part: scripting, sub_script_root_part.length == 9
+      sub_script_root_part_array: scripting
+      file_part: __init__.py
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jython/scripting/__init__.py
+
+          ... req_or_include_cmd    : '# jython_import Jython::scripting.__init__'
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jython/scripting/__init__.py'
+          aka                       : '__init__'
+          req_pkg_or_mod_name       : 'scripting.'
+          req_class_name            : '__init__'
+          req_pkg_or_mod_class_name : 'Jython::scripting.__init__'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jython/scripting/scripts/__init__.py
+      req_file_name_without_ext: __init__
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jython, @script_root.length == 51
+      sub_script_root_part: scripting/scripts, sub_script_root_part.length == 17
+      sub_script_root_part: scripting/scripts, sub_script_root_part.length == 17
+      sub_script_root_part_array: scripting/scripts
+      file_part: __init__.py
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jython/scripting/scripts/__init__.py
+
+          ... req_or_include_cmd    : '# jython_import Jython::scripting.scripts.__init__'
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jython/scripting/scripts/__init__.py'
+          aka                       : '__init__'
+          req_pkg_or_mod_name       : 'scripting.scripts.'
+          req_class_name            : '__init__'
+          req_pkg_or_mod_class_name : 'Jython::scripting.scripts.__init__'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jython/scripting/scripts/websphere/get_node_info.py
+      req_file_name_without_ext: get_node_info
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jython, @script_root.length == 51
+      sub_script_root_part: scripting/scripts/websphere, sub_script_root_part.length == 27
+      sub_script_root_part: scripting/scripts/websphere, sub_script_root_part.length == 27
+      sub_script_root_part_array: scripting/scripts/websphere
+      file_part: get_node_info.py
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jython/scripting/scripts/websphere/get_node_info.py
+
+          ... req_or_include_cmd    : '# jython_import Jython::scripting.scripts.websphere.get_node_info'
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jython/scripting/scripts/websphere/get_node_info.py'
+          aka                       : 'get_node_info'
+          req_pkg_or_mod_name       : 'scripting.scripts.websphere.'
+          req_class_name            : 'get_node_info'
+          req_pkg_or_mod_class_name : 'Jython::scripting.scripts.websphere.get_node_info'
+getJythonObject(...): START
+  pythonPath                   == '/home/drhuffman/vm_shared/_dev_/ScriptRunner/java/bin'
+  interfaceName                == 'scripting.core.AbstractScript'
+  pathToJythonModule           == '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jython/scripting/scripts/websphere/get_node_info.py'
+  AbstractScript.description() == 'Required initial params: (no database or path settings required)'
+getJythonObject(...): MID 1
+getJythonObject(...): MID 1a
+        ... Jython Script... Is NOT a subclass of 'AbstractScript' (or is broken).
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jython/scripting/scripts/websphere/getinfo.py
+      req_file_name_without_ext: getinfo
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jython, @script_root.length == 51
+      sub_script_root_part: scripting/scripts/websphere, sub_script_root_part.length == 27
+      sub_script_root_part: scripting/scripts/websphere, sub_script_root_part.length == 27
+      sub_script_root_part_array: scripting/scripts/websphere
+      file_part: getinfo.py
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jython/scripting/scripts/websphere/getinfo.py
+
+          ... req_or_include_cmd    : '# jython_import Jython::scripting.scripts.websphere.getinfo'
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jython/scripting/scripts/websphere/getinfo.py'
+          aka                       : 'getinfo'
+          req_pkg_or_mod_name       : 'scripting.scripts.websphere.'
+          req_class_name            : 'getinfo'
+          req_pkg_or_mod_class_name : 'Jython::scripting.scripts.websphere.getinfo'
+getJythonObject(...): START
+  pythonPath                   == '/home/drhuffman/vm_shared/_dev_/ScriptRunner/java/bin'
+  interfaceName                == 'scripting.core.AbstractScript'
+  pathToJythonModule           == '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jython/scripting/scripts/websphere/getinfo.py'
+  AbstractScript.description() == 'Required initial params: (no database or path settings required)'
+getJythonObject(...): MID 1
+getJythonObject(...): MID 1a
+----------------------------------------------------
+----------------------------------------------------
+        ... Jython Script... Is NOT a subclass of 'AbstractScript' (or is broken).
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jython/scripting/scripts/websphere/__init__.py
+      req_file_name_without_ext: __init__
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jython, @script_root.length == 51
+      sub_script_root_part: scripting/scripts/websphere, sub_script_root_part.length == 27
+      sub_script_root_part: scripting/scripts/websphere, sub_script_root_part.length == 27
+      sub_script_root_part_array: scripting/scripts/websphere
+      file_part: __init__.py
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jython/scripting/scripts/websphere/__init__.py
+
+          ... req_or_include_cmd    : '# jython_import Jython::scripting.scripts.websphere.__init__'
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jython/scripting/scripts/websphere/__init__.py'
+          aka                       : '__init__'
+          req_pkg_or_mod_name       : 'scripting.scripts.websphere.'
+          req_class_name            : '__init__'
+          req_pkg_or_mod_class_name : 'Jython::scripting.scripts.websphere.__init__'
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jython/scripting/scripts/samples/GenSimpleXml.py
+      req_file_name_without_ext: GenSimpleXml
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jython, @script_root.length == 51
+      sub_script_root_part: scripting/scripts/samples, sub_script_root_part.length == 25
+      sub_script_root_part: scripting/scripts/samples, sub_script_root_part.length == 25
+      sub_script_root_part_array: scripting/scripts/samples
+      file_part: GenSimpleXml.py
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jython/scripting/scripts/samples/GenSimpleXml.py
+
+          ... req_or_include_cmd    : '# jython_import Jython::scripting.scripts.samples.GenSimpleXml'
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jython/scripting/scripts/samples/GenSimpleXml.py'
+          aka                       : 'GenSimpleXml'
+          req_pkg_or_mod_name       : 'scripting.scripts.samples.'
+          req_class_name            : 'GenSimpleXml'
+          req_pkg_or_mod_class_name : 'Jython::scripting.scripts.samples.GenSimpleXml'
+getJythonObject(...): START
+  pythonPath                   == '/home/drhuffman/vm_shared/_dev_/ScriptRunner/java/bin'
+  interfaceName                == 'scripting.core.AbstractScript'
+  pathToJythonModule           == '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jython/scripting/scripts/samples/GenSimpleXml.py'
+  AbstractScript.description() == 'Required initial params: (no database or path settings required)'
+getJythonObject(...): MID 1
+getJythonObject(...): MID 1a
+        ... Jython Script... Is NOT a subclass of 'AbstractScript' (or is broken).
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jython/scripting/scripts/samples/SampleScriptJython.py
+      req_file_name_without_ext: SampleScriptJython
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jython, @script_root.length == 51
+      sub_script_root_part: scripting/scripts/samples, sub_script_root_part.length == 25
+      sub_script_root_part: scripting/scripts/samples, sub_script_root_part.length == 25
+      sub_script_root_part_array: scripting/scripts/samples
+      file_part: SampleScriptJython.py
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jython/scripting/scripts/samples/SampleScriptJython.py
+
+          ... req_or_include_cmd    : '# jython_import Jython::scripting.scripts.samples.SampleScriptJython'
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jython/scripting/scripts/samples/SampleScriptJython.py'
+          aka                       : 'SampleScriptJython'
+          req_pkg_or_mod_name       : 'scripting.scripts.samples.'
+          req_class_name            : 'SampleScriptJython'
+          req_pkg_or_mod_class_name : 'Jython::scripting.scripts.samples.SampleScriptJython'
+getJythonObject(...): START
+  pythonPath                   == '/home/drhuffman/vm_shared/_dev_/ScriptRunner/java/bin'
+  interfaceName                == 'scripting.core.AbstractScript'
+  pathToJythonModule           == '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jython/scripting/scripts/samples/SampleScriptJython.py'
+  AbstractScript.description() == 'Required initial params: (no database or path settings required)'
+getJythonObject(...): MID 1
+getJythonObject(...): MID 1a
+getJythonObject(...): MID 1b
+getJythonObject(...): MID 1c
+getJythonObject(...): MID 2
+tempName == SampleScriptJython
+getJythonObject(...): MID 3
+SampleScriptJython:Hello
+ INFO [main] (AbstractScript.java161) - org.python.proxies.main$SampleScriptJython$0... in constructor
+  org.python.proxies.main$SampleScriptJython$0... in constructor org.python.proxies.main$SampleScriptJython$0 : org.apache.log4j.Logger@83f5ddcSampleScriptJython:World
+getJythonObject(...): MID 4
+getJythonObject(...): MID 5
+getJythonObject(...): END
+        ... Jython Script... Is it a subclass of 'AbstractScript'?
+        ... Jython Script... Is a subclass of 'AbstractScript'.
+
+
+      req_file_path: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jython/scripting/scripts/samples/__init__.py
+      req_file_name_without_ext: __init__
+      @script_root        : /home/drhuffman/vm_shared/_dev_/ScriptRunner/jython, @script_root.length == 51
+      sub_script_root_part: scripting/scripts/samples, sub_script_root_part.length == 25
+      sub_script_root_part: scripting/scripts/samples, sub_script_root_part.length == 25
+      sub_script_root_part_array: scripting/scripts/samples
+      file_part: __init__.py
+      Attempting to require: /home/drhuffman/vm_shared/_dev_/ScriptRunner/jython/scripting/scripts/samples/__init__.py
+
+          ... req_or_include_cmd    : '# jython_import Jython::scripting.scripts.samples.__init__'
+        Required                    : '/home/drhuffman/vm_shared/_dev_/ScriptRunner/jython/scripting/scripts/samples/__init__.py'
+          aka                       : '__init__'
+          req_pkg_or_mod_name       : 'scripting.scripts.samples.'
+          req_class_name            : '__init__'
+          req_pkg_or_mod_class_name : 'Jython::scripting.scripts.samples.__init__'
+
+
+
+running ui...
+ INFO [main] (??) - initialize(["Java::scripting.scripts.samples.EmptyScript", "Java::scripting.scripts.samples.SampleScript", "Java::scripting.scripts.samples.SampleScriptWithOptions", "Jython::scripting.scripts.samples.SampleScriptJython", "Scripting::Scripts::Maximo::Logs::GrabErrorLinesUncaughtExceptionInServlet", "Scripting::Scripts::Samples::SampleScriptJruby", "Scripting::Scripts::Samples::SampleScriptJrubyMaximo", "Scripting::Scripts::Samples::SampleScriptJrubyMaximoGetStorerooms", "Scripting::Scripts::Samples::SampleScriptJrubySvg", "Scripting::Scripts::Samples::SampleScriptJrubySwt", "Scripting::Scripts::Samples::SampleScriptJrubyWithOptions", "Scripting::Scripts::Utils::CompareXml", "Scripting::Scripts::Utils::FileSync", "Scripting::Scripts::Utils::LowercaseAllFilenames", "Scripting::Scripts::Utils::RegexpSearch", "Scripting::Scripts::Websphere::GetInfo", "Scripting::Scripts::Websphere::GetNodeInfo"])
+   INFO [main] (??) - initialize(From)
+  Need to add '@@all_conn_settings' ...
+... '@@all_conn_settings' added.
+Loading 'Scripting::Core::Ui::ConnParamPicker' properties from '/home/drhuffman/vm_shared/_dev_/ScriptRunner/properties/com_param_panel.properties'
+import_settings.. begin
+import_settings.. if (File.exist?(/home/drhuffman/vm_shared/_dev_/ScriptRunner/properties/com_param_panel.properties))
+import_settings.. @@all_conn_settings == {"- pick one -"=>{"server"=>"", "database"=>"", "username"=>"", "path"=>""}, "DEV"=>{"serverDEV"=>"", "databaseDEV"=>"", "usernameDEV"=>"", "pathDEV"=>""}, "UAT"=>{"serverUAT"=>"", "databaseUAT"=>"", "usernameUAT"=>"", "pathUAT"=>""}, "PROD"=>{"serverPROD"=>"", "databasePROD"=>"", "usernamePROD"=>"", "pathPROD"=>""}}
+import_settings.. props_to_load == true
+import_settings.. if...start
+import_settings.. if...done
+ INFO [main] (??) - initialize(To)
+  Need to add '@@all_conn_settings' ...
+... '@@all_conn_settings' added.
+Loading 'Scripting::Core::Ui::ConnParamPicker' properties from '/home/drhuffman/vm_shared/_dev_/ScriptRunner/properties/com_param_panel.properties'
+import_settings.. begin
+import_settings.. if (File.exist?(/home/drhuffman/vm_shared/_dev_/ScriptRunner/properties/com_param_panel.properties))
+import_settings.. @@all_conn_settings == {"- pick one -"=>{"server"=>"", "database"=>"", "username"=>"", "path"=>""}, "DEV"=>{"serverDEV"=>"", "databaseDEV"=>"", "usernameDEV"=>"", "pathDEV"=>""}, "UAT"=>{"serverUAT"=>"", "databaseUAT"=>"", "usernameUAT"=>"", "pathUAT"=>""}, "PROD"=>{"serverPROD"=>"", "databasePROD"=>"", "usernamePROD"=>"", "pathPROD"=>""}}
+import_settings.. props_to_load == true
+import_settings.. if...start
+import_settings.. if...done
+"**** script_class_name == Jython::scripting.scripts.samples.SampleScriptJython"
+"**** temp_script_class_name == Java::scripting.scripts.samples.SampleScriptJython"
+"======="
+"Scripting::Core::Ui::ConnParamPicker... had an option selected:"
+"  e == java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=comboBoxChanged,when=1400112073252,modifiers=Button1] on org.jruby.proxy.javax.swing.JComboBox$Proxy2[,0,0,224x23,invalid,layout=javax.swing.plaf.metal.MetalComboBoxUI$MetalComboBoxLayoutManager,alignmentX=0.0,alignmentY=0.0,border=,flags=4194632,maximumSize=,minimumSize=,preferredSize=,isEditable=true,lightWeightPopupEnabled=true,maximumRowCount=8,selectedItemReminder=DEV]"
+"  get_selected_index == 1"
+"  e.get_source == org.jruby.proxy.javax.swing.JComboBox$Proxy2[,0,0,224x23,invalid,layout=javax.swing.plaf.metal.MetalComboBoxUI$MetalComboBoxLayoutManager,alignmentX=0.0,alignmentY=0.0,border=,flags=4194632,maximumSize=,minimumSize=,preferredSize=,isEditable=true,lightWeightPopupEnabled=true,maximumRowCount=8,selectedItemReminder=DEV]"
+"  get_selected_item == DEV"
+"**** get_selected_index == 1"
+"**** get_selected_item == DEV"
+"switching to:{\"serverDEV\"=>\"\", \"databaseDEV\"=>\"\", \"usernameDEV\"=>\"\", \"pathDEV\"=>\"\"}"
+"**** @jcb_script.get_selected_index == 5"
+"**** @jcb_script.get_selected_item == Scripting::Scripts::Maximo::Logs::GrabErrorLinesUncaughtExceptionInServlet"
+Total clicks: 0

@@ -1,0 +1,45 @@
+package scripting.core;
+
+abstract public class AbstractScript extends JFrame implements ActionListener, Runnable
+{
+  static public String description(){...}
+
+  // ...
+  
+  public AbstractScript(String jframeName){...}
+  
+  // ...
+  
+  /*
+   * NOTE: Sub-classes should use "initParamsHook()" for init'ing additional UI parts before running their scripts.
+   *       (Leave empty if no additional parameters are needed.)
+   */
+  public void initUISettingsHook(){...}
+  
+  /*
+   * NOTE: Sub-classes should use "initParamsHook()" for setting additional UI parts before running their scripts.
+   *       (Leave empty if no additional parameters are needed.)
+   */
+  public void initUIComponentsHook(){...}
+  
+  // ...
+
+  public void updateProgress(int progressVal, String progressMsg) {...}
+  
+  public void recalcProgressByCounters(int[][] countSets){...}
+
+  /*
+   * NOTE: Sub-classes should use "startScriptHook()" for running their scripts.
+   * e.g.: 
+   *   // Do something then update progress bar:
+   *   someScriptMethod();
+   *   updateProgress(someProgressVal, someProgressMsg);
+   */
+  abstract public void startScriptHook();
+
+  /*
+   * NOTE: Sub-classes should use "endScriptHook()" for ending their scripts.
+   * Use this method to close any db connections and file handles.
+   */
+  abstract public void endScriptHook();
+}
